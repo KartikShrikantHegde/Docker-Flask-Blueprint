@@ -28,8 +28,6 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-#COPY init.sql /docker-entrypoint-initdb.d/10-init.sql
-
 RUN chmod +x /Photos-Docker-Flask/docker-entrypoint.sh
 
 CMD ["/bin/bash", "/Photos-Docker-Flask/docker-entrypoint.sh"]
