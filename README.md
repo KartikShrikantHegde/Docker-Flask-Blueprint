@@ -10,7 +10,7 @@ On macOS, you can install the git using Homebrew using ```brew install git```
 
 **Step 2:** Clone the project into your local machine using below command.
 
-```git clone https://github.com/KartikShrikantHegde/Photos-Docker-Blueprint```
+```git clone https://github.com/KartikShrikantHegde/Docker-Flask-Blueprint.git```
 
 ### Prerequisites
 
